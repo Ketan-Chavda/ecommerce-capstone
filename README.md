@@ -103,7 +103,7 @@ project6-ecommerce-capstone/
 
 ## 📊 Power BI Dashboard
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 Single dark-theme canvas with 8 visual panels: KPI Cards, Monthly Revenue Trend, Customer Segment Breakdown, Top 10 Categories, Top 10 States, Delivery Performance, Churn Risk Distribution, Payment Type Breakdown.
 
